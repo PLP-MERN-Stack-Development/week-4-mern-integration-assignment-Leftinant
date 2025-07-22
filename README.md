@@ -35,6 +35,8 @@ cd blogClone
 
 ```
 
+---
+
 ## live demo
 
 ```bash
