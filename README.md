@@ -1,12 +1,44 @@
-# React + Vite
+# 📝 MERN Blog Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A full-featured blog platform built with the MERN stack (MongoDB, Express.js, React.js, Node.js). Includes authentication, image uploads, comments, pagination, and more.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- ✅ User registration & login (JWT auth)
+- ✅ Protected routes for post creation/editing/deletion
+- ✅ Create, read, update, delete blog posts
+- ✅ Upload featured images (Multer)
+- ✅ Comment system
+- ✅ Pagination and search
+- ✅ React Router navigation
+- ✅ Responsive UI
+ 
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ⚙️ Requirements
+
+- Node.js ≥ 18
+- MongoDB (local or Atlas)
+- `pnpm` (preferred)
+
+---
+
+## 📦 Installation
+
+### 1. Clone the repo
+
+```bash
+git clone https://github.com/Leftinant/blogClone
+cd blogClone
+
+```
+
+## live demo
+
+```bash
+
+ https://blogapp-ben.vercel.app/
+
+```
